@@ -1,2 +1,3 @@
 # Hello_World
-First time creating repository
+
+I am new user to GIT and I am learning Artificial Intelligence.
